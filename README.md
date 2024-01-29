@@ -58,6 +58,11 @@ Proficient in IT Service Delivery Management, I've successfully overseen IT Help
 <ul>
   <li><a href="https://github.com/ArturoLoH/AnalisisDeDatosSQLPYPBI">Analisis de datos con SQL, PY y PBI</a></li>
 </ul>
+<h3>HTML/JS/CSS</h3>
+<ul>
+  <li><a href="https://github.com/ArturoLoH/Tracking-">Sistema de tracking para tareas</a></li>
+  <li><a href="https://github.com/ArturoLoH/Inventarios">Sistema de inventarios</a></li>
+</ul>
 <H3>Cyber Security</H3>
 <h2>Contact me</h2>
 <p align="left">
