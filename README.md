@@ -48,6 +48,7 @@ Proficient in IT Service Delivery Management, I've successfully overseen IT Help
 <h3>Python</h3>
 <p>
   <ul>
+  <li><a href="https://arturolopez.com.mx">Mi pagina web</a></li>  
   <li><a href="https://github.com/ArturoLoH/volado">Decide tu siguiente decisión con un volado</a></li>
   <li><a href="https://github.com/ArturoLoH/Generador-de-password">Genera un password seguro</a></li>
   <li><a href="https://github.com/ArturoLoH/piedra-papel-o-tijeras">Juega piedra, papel o tijeras</a></li>
@@ -60,6 +61,7 @@ Proficient in IT Service Delivery Management, I've successfully overseen IT Help
 </ul>
 <h3>HTML/JS/CSS</h3>
 <ul>
+  <li><a href="https://github.com/ArturoLoH/pokedex">Busqueda de pokemon por nombre y numero</a></li>
   <li><a href="https://github.com/ArturoLoH/Tracking-">Sistema de tracking para tareas</a></li>
   <li><a href="https://github.com/ArturoLoH/Inventarios">Sistema de inventarios</a></li>
 </ul>
