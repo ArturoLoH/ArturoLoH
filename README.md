@@ -48,10 +48,16 @@ Proficient in IT Service Delivery Management, I've successfully overseen IT Help
 <h3>Python</h3>
 <p>
   <ul>
-  <li><a href="https://github.com/ArturoLoH/volado">Decide tu siguiente decisión con un volado</a></li>
+  <li><a href="https://github.com/ArturoLoH/volado">Decide con un volado</a></li>
   <li><a href="https://github.com/ArturoLoH/Generador-de-password">Genera un password seguro</a></li>
   <li><a href="https://github.com/ArturoLoH/piedra-papel-o-tijeras">Juega piedra, papel o tijeras</a></li>
   <li><a href="https://github.com/ArturoLoH/calculador-de-botes-de-pintura">Calcula cuanta pintura necesitas</a></li>
+  <li><a href="https://github.com/ArturoLoH/BMI-Calculator">Calcula tu indice de masa corporal</a></li>
+  <li><a href="https://github.com/ArturoLoH/prime-number">Verifica si es numero primo o no</a></li>
+  <li><a href="https://github.com/ArturoLoH/Treasure-map-game">Juego de un tesoro oculto</a></li>
+  <li><a href="https://github.com/ArturoLoH/who-pays">Programa para saber quien paga la cuenta</a></li>
+  
+
   </ul>
 </p>
 <h3>Data</h3>
